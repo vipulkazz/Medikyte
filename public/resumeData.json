@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Vipul Kaushik",
+    "occupation": "Developer @Segwitz",
+    "description": "React Native Developer at Segwitz Sdn Bhd.",
+    "image": "Naz.jpg",
+    "bio": "My name is Vipul, I'm a React Native Developer. Currently I'm working at Segwitz Sdn Bhd.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vipulkaushik96@gmail.com",
+    "phone": "+917696763111",
+    "address": {
+      "street": "Modern Housing Complex, Sector-13",
+      "city": "Chandigarh",
+      "state": "CHANDIGARH  ",
+      "zip": "160101"
+    },
+    "website": "",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vipul-kaushik/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "MMU Sadopur, Ambala",
+        "degree": "B.Tech, Computer Science and engineering",
+        "graduated": "2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Segwitz Sdn Bhd",
+        "title": "React Native Specialist",
+        "years": "Dec 2020 - Present",
+        "description": "Transforming the lives of people by being a tech enabler and elevating people's life by bringing their ideas to live in form of mobile application."
+      },
+      {
+        "company": "SmartData",
+        "title": "React Native Specialist",
+        "years": "Oct 2020 - Nov 2020",
+        "description": "Helping businesses showing their best selves to clients."
+      },
+      {
+        "company": "Addval Labs",
+        "title": "React Native Specialist",
+        "years": "Jan 2018 - Oct 2020",
+        "description": "Helping in providing management system to doctors for their clinic and their patients"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Redux",
+        "level": "100%"
+      },
+      {
+        "name": "Redux-Persist",
+        "level": "80%"
+      },
+      {
+        "name": "React-Js",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zoom Clone with NodeJS",
+        "category": "Zoom Clone built with NodeJS",
+        "image": "zoom.jpg",
+        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+      },
+      {
+        "title": "Robinhood Clone",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
